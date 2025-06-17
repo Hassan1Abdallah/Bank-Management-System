@@ -28,5 +28,12 @@ It allows you to perform basic CRUD operations (Create, Read, Update, Delete) on
 1. Compile the code:
    ```bash
    g++ -o clientApp main.cpp
+   
+   int main() {
+   printMenu();
+   system("pause>0");
+   return 0;
+   }
+
 
 
