@@ -421,9 +421,3 @@ void printMenu() {
   performMainMenuOption((enMainMenuOption) readMainMenuOption());
 
 }
-
-int main() {
-  printMenu();
-  system("pause>0");
-  return 0;
-}
