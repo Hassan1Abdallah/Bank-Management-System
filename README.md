@@ -45,6 +45,3 @@ A simple console-based banking system written in C++ that allows you to manage c
    system("pause>0");
    return 0;
    }
-
-
-
