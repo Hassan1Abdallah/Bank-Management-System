@@ -18,7 +18,7 @@ A simple console-based banking system written in C++ that allows you to manage c
 ---
 
 ## 📋 Main Menu
-
+<small>
 ================================================
                  Main Menu Screen
 ================================================
@@ -30,7 +30,7 @@ A simple console-based banking system written in C++ that allows you to manage c
 [6] Transactions.
 [7] Exit.
 ================================================
-
+</small>
 ### 🔹 Main Menu Options:
 
 - **[1] Show Client List** – View all clients.
@@ -44,7 +44,7 @@ A simple console-based banking system written in C++ that allows you to manage c
 ---
 
 ## 💰 Transactions Menu
-
+<small>
 ================================================
                  Transactions Menu Screen
 ================================================
@@ -53,7 +53,7 @@ A simple console-based banking system written in C++ that allows you to manage c
 [3] Total Balances.
 [4] Main Menu.
 ================================================
-
+</small>
 ### 🔹 Transactions Menu Options:
 
 - **[1] Deposit** – Add money to a client account.
