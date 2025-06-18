@@ -17,20 +17,6 @@ A simple console-based banking system written in C++ that allows you to manage c
 
 ---
 
-## 📋 Main Menu
-<small>
-================================================
-                 Main Menu Screen
-================================================
-[1] Show Client list.
-[2] Add new Client.
-[3] Delete Client.
-[4] Update Client Info.
-[5] Find Client.
-[6] Transactions.
-[7] Exit.
-================================================
-</small>
 ### 🔹 Main Menu Options:
 
 - **[1] Show Client List** – View all clients.
@@ -43,17 +29,6 @@ A simple console-based banking system written in C++ that allows you to manage c
 
 ---
 
-## 💰 Transactions Menu
-<small>
-================================================
-                 Transactions Menu Screen
-================================================
-[1] Deposit.
-[2] Withdraw.
-[3] Total Balances.
-[4] Main Menu.
-================================================
-</small>
 ### 🔹 Transactions Menu Options:
 
 - **[1] Deposit** – Add money to a client account.
